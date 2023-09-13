@@ -117,7 +117,7 @@ var swiperTestimonial = new Swiper(".testimonial-container", {
   },
 });
 
-/* SCROLL SECTIONS ACTIVE LINK */
+/* SCROLL SECTIONS ACTIVE LINK 
 const sections = document.querySelectorAll("section[id]");
 
 function scrollActive() {
@@ -139,7 +139,7 @@ function scrollActive() {
     }
   });
 }
-window.addEventListener("scroll", scrollActive);
+window.addEventListener("scroll", scrollActive);*/
 
 /* CHANGE BACKGROUND HEADER */
 function scrollHeader() {
